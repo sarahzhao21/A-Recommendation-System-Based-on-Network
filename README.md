@@ -12,3 +12,5 @@ directly is very large, approximately 500 GB, we use the subset exposed on GitHu
 
 ● Taste Profile Dataset (train_triplets.txt​): Million Song Dataset also provides the taste
 profile data, which contains 1,019,318 unique users, 384,546 unique songs, and 48,373,586 records of triplets (user id, song id and play count). This is an important basis for building the network.
+
+In this repository, the "Recommendation_system_final_report.pdf" provides the details about this study, the "Recommendation_system_Fival_Version.ipynb" includes the python code that used for this study and the "songs_dic.txt" is a python dictionary with all the users as the keys and the songs played by each user as values, which can be used to build network.
